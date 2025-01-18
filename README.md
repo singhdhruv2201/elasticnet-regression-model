@@ -2,8 +2,8 @@
 
 # ElasticNet Regression Model
 
-## Dhruv Singh - A20541901
-## Kunal Samant - A20541900
+## Dhruv Singh - dsingh28@hawk.iit.edu
+## Kunal Samant - ksamant@hawk.iit.edu
 ## Introduction
 
 In this project, I implemented an ElasticNet regression model from scratch. ElasticNet is a type of linear regression that combines both Lasso (L1) and Ridge (L2) regularization methods. It's particularly useful when dealing with datasets that have lots of features, some of which might be highly correlated, or when we want to perform feature selection. ElasticNet is beneficial when there are many features and some are correlated, or when neither Lasso nor Ridge regression alone provides optimal results. I chose to create my own implementation without relying on big libraries like scikit-learn or pandas to gain a deeper understanding of how the algorithm works under the hood.
